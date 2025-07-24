@@ -8,3 +8,4 @@ https://anthonygiretti.com/2022/12/04/introducing-c11-extended-nameof-parameter-
 
 https://blog.stackademic.com/c-11-features-efca0c450c05
 
+https://copilot.microsoft.com/
