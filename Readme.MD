@@ -1,4 +1,4 @@
-﻿
+﻿examples from
 
 https://code-maze.com/csharp-generic-attributes/
 

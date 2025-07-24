@@ -10,7 +10,7 @@ namespace C_Sharp11
         {
             Console.WriteLine("Hello, Welcome to DAGG C# 11 Catalog");
             Console.WriteLine("This catalog contains examples of C# 11 features");
-            Console.WriteLine("These features are available in .NET Core 6.0+ since 2021");
+            Console.WriteLine("These features are available in .NET Core 7.0+ since 2022");
 
             #region RawStringLiterals
             Console.WriteLine("1.- Raw String Literals");
